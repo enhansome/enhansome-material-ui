@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202372085,
             "language": "TypeScript",
             "last_commit": "2023-01-27T04:30:34Z",
             "owner": "alexandre-lelain",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317526122,
             "language": "JavaScript",
             "last_commit": "2023-03-17T21:28:31Z",
             "owner": "jens-ox",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143562995,
             "language": "TypeScript",
             "last_commit": "2026-03-31T01:28:33Z",
             "owner": "iamhosseindhv",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175039309,
             "language": "TypeScript",
             "last_commit": "2026-05-22T09:10:00Z",
             "owner": "siriwatknp",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121948740,
             "language": "TypeScript",
             "last_commit": "2026-01-29T08:12:58Z",
             "owner": "stackworx",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59525159,
             "language": "JavaScript",
             "last_commit": "2023-01-12T08:23:25Z",
             "owner": "erikras",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67625984,
             "language": "JavaScript",
             "last_commit": "2022-12-23T19:47:52Z",
             "owner": "TeamWertarbyte",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107120485,
             "language": "JavaScript",
             "last_commit": "2024-03-13T13:14:33Z",
             "owner": "Yuvaleros",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72224573,
             "language": "JavaScript",
             "last_commit": "2022-12-10T00:07:49Z",
             "owner": "Sharlaan",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260728683,
             "language": "TypeScript",
             "last_commit": "2021-08-31T07:16:20Z",
             "owner": "innFactory",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93708947,
             "language": "TypeScript",
             "last_commit": "2023-01-07T03:56:16Z",
             "owner": "szmslab",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137104536,
             "language": "TypeScript",
             "last_commit": "2022-12-03T11:33:35Z",
             "owner": "Deadly0",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202372085,
             "language": "TypeScript",
             "last_commit": "2023-01-27T04:30:34Z",
             "owner": "alexandre-lelain",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236657637,
             "language": "TypeScript",
             "last_commit": "2023-05-24T01:56:06Z",
             "owner": "azmenak",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69466926,
             "language": "JavaScript",
             "last_commit": "2023-01-25T18:17:10Z",
             "owner": "TeamWertarbyte",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78733499,
             "language": "JavaScript",
             "last_commit": "2023-01-06T01:35:18Z",
             "owner": "TeamWertarbyte",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76281521,
             "language": "JavaScript",
             "last_commit": "2020-03-15T10:47:03Z",
             "owner": "corpix",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300714390,
             "language": "JavaScript",
             "last_commit": "2020-11-08T19:16:33Z",
             "owner": "ssat4805",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298109872,
             "language": "JavaScript",
             "last_commit": "2022-05-15T17:38:25Z",
             "owner": "ssat4805",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722188549,
             "language": "TypeScript",
             "last_commit": "2025-12-05T09:34:36Z",
             "owner": "typesnippet",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190462356,
             "language": "TypeScript",
             "last_commit": "2020-06-03T16:53:43Z",
             "owner": "nadunindunil",
@@ -316,11 +337,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T10:11:02Z",
+            "last_commit": "2026-08-19T09:19:22Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98853
+            "stars": 98862
           }
         },
         {
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128308007,
             "language": "TypeScript",
             "last_commit": "2025-03-21T18:07:06Z",
             "owner": "async-labs",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119300541,
             "language": "TypeScript",
             "last_commit": "2021-02-21T13:07:14Z",
             "owner": "innFactory",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146115211,
             "language": "JavaScript",
             "last_commit": "2023-01-06T01:46:32Z",
             "owner": "syedabuthahirm",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146363312,
             "language": "JavaScript",
             "last_commit": "2018-11-08T22:54:01Z",
             "owner": "nareshbhatia",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 96294088,
             "language": "JavaScript",
             "last_commit": "2022-11-08T12:49:56Z",
             "owner": "katopz",
@@ -395,16 +422,12 @@
         }
       ],
       "title": "Boilerplates"
-    },
-    {
-      "description": "Your contributions are always welcome! Click Here to read the guidelines.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:48:45.033Z",
+    "last_updated": "2026-08-19T12:38:14.363Z",
     "original_repository": "nadunindunil/awesome-material-ui",
+    "original_repository_id": 217705449,
     "original_repository_sha": "1ad57193c1ea22ad0911108c5ccd7fe4095f2b36",
     "enhanced_repository": "enhansome/enhansome-material-ui",
     "enhanced_repository_description": null,
