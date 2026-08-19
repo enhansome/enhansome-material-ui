@@ -339,10 +339,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T09:19:22Z",
+            "last_commit": "2026-08-19T17:14:37Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98862
+            "stars": 98865
           }
         },
         {
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:38:14.363Z",
+    "last_updated": "2026-08-19T17:45:55.295Z",
     "original_repository": "nadunindunil/awesome-material-ui",
     "original_repository_id": 217705449,
     "original_repository_sha": "1ad57193c1ea22ad0911108c5ccd7fe4095f2b36",
