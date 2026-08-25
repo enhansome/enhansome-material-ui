@@ -4,7 +4,7 @@
 
 <h1 align="center">Awesome Material-UI</h1>
 
-[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21
+[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 499,861 | 🐛 106 | 📅 2026-08-21
 
 [Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
@@ -102,8 +102,8 @@ A list of mature apps built with Material-UI Design.
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
-* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 98,923 | 🐛 1,493 | 🌐 JavaScript | 📅 2026-08-25 - Create React App example from official Material-UI repo.
-* [Saas](https://github.com/async-labs/saas) ⭐ 4,503 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
+* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 98,921 | 🐛 1,492 | 🌐 JavaScript | 📅 2026-08-25 - Create React App example from official Material-UI repo.
+* [Saas](https://github.com/async-labs/saas) ⭐ 4,502 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 * [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) ⭐ 289 | 🐛 1 | 🌐 TypeScript | 📅 2021-02-21 - A ready to use boilerplate for starting big react projects.
 * [React-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-06 - A starter kit for react and Material-UI.
 * [Gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2018-11-08 - A starter template for Gatsby using Material-UI.
