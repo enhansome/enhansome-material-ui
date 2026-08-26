@@ -51,7 +51,7 @@
             "last_commit": "2026-03-31T01:28:33Z",
             "owner": "iamhosseindhv",
             "repo": "notistack",
-            "stars": 4075
+            "stars": 4076
           }
         },
         {
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T13:58:29Z",
+            "last_commit": "2026-08-26T14:22:39Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98921
+            "stars": 98935
           }
         },
         {
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:49:54.857Z",
+    "last_updated": "2026-08-26T19:22:41.035Z",
     "original_repository": "nadunindunil/awesome-material-ui",
     "original_repository_id": 217705449,
     "original_repository_sha": "1ad57193c1ea22ad0911108c5ccd7fe4095f2b36",
