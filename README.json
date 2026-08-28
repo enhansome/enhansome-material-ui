@@ -339,10 +339,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:35:12Z",
+            "last_commit": "2026-08-27T16:42:38Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98946
+            "stars": 98948
           }
         },
         {
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:19.587Z",
+    "last_updated": "2026-08-28T01:32:21.081Z",
     "original_repository_info": {
       "archived": false,
       "id": 217705449,
