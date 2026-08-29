@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React molecule-components based on Material-ui.",
+            "homepage": "https://components-extra.netlify.app",
             "id": 202372085,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-27T04:30:34Z",
+            "open_issues": 11,
             "owner": "alexandre-lelain",
             "repo": "components-extra",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "material-ui",
+              "react",
+              "react-molecule-components",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -26,12 +37,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect unused Material UI styling classes using eslint",
+            "homepage": null,
             "id": 317526122,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-17T21:28:31Z",
+            "open_issues": 3,
             "owner": "jens-ox",
             "repo": "eslint-plugin-material-ui-unused-classes",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "eslint",
+              "eslint-plugin",
+              "material-ui"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         }
@@ -48,12 +68,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly customizable notification snackbars (toasts) that can be stacked on top of each other",
+            "homepage": "https://notistack.com",
             "id": 143562995,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-31T01:28:33Z",
+            "open_issues": 67,
             "owner": "iamhosseindhv",
             "repo": "notistack",
-            "stars": 4076
+            "stars": 4076,
+            "topics": [
+              "google-material",
+              "javascript",
+              "material-design",
+              "material-ui",
+              "notifications",
+              "reactjs",
+              "redux",
+              "snackbar",
+              "stack",
+              "toast",
+              "toast-notifications"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -64,12 +101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of ready-to-use components based on Material-UI",
+            "homepage": "https://mui-treasury.com",
             "id": 175039309,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-22T09:10:00Z",
+            "open_issues": 39,
             "owner": "siriwatknp",
             "repo": "mui-treasury",
-            "stars": 2441
+            "stars": 2441,
+            "topics": [
+              "layout",
+              "material-design",
+              "material-ui",
+              "open-source",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -80,12 +128,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bindings for using Formik with Material-UI",
+            "homepage": "https://stackworx.github.io/formik-mui",
             "id": 121948740,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-29T08:12:58Z",
+            "open_issues": 31,
             "owner": "stackworx",
             "repo": "formik-mui",
-            "stars": 974
+            "stars": 974,
+            "topics": [
+              "formik",
+              "material-ui",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -96,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of wrapper components to facilitate using Material UI with Redux Form",
+            "homepage": "http://erikras.github.io/redux-form-material-ui/",
             "id": 59525159,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-12T08:23:25Z",
+            "open_issues": 72,
             "owner": "erikras",
             "repo": "redux-form-material-ui",
-            "stars": 825
+            "stars": 825,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -112,12 +174,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A chip input field using Material-UI.",
+            "homepage": "https://mui.wertarbyte.com/#material-ui-chip-input",
             "id": 67625984,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-23T19:47:52Z",
+            "open_issues": 41,
             "owner": "TeamWertarbyte",
             "repo": "material-ui-chip-input",
-            "stars": 732
+            "stars": 732,
+            "topics": [
+              "chip",
+              "input",
+              "material-design",
+              "material-ui",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -128,12 +201,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Material-UI file upload dropzone ",
+            "homepage": null,
             "id": 107120485,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-13T13:14:33Z",
+            "open_issues": 108,
             "owner": "Yuvaleros",
             "repo": "material-ui-dropzone",
-            "stars": 479
+            "stars": 479,
+            "topics": [
+              "dropzone",
+              "file-upload",
+              "material-ui",
+              "modal",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -144,12 +228,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "multiselection autocomplete dropdown component for Material-UI",
+            "homepage": "https://sharlaan.github.io/material-ui-superselectfield",
             "id": 72224573,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T00:07:49Z",
+            "open_issues": 60,
             "owner": "Sharlaan",
             "repo": "material-ui-superselectfield",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "autocomplete",
+              "create-react-app",
+              "dropdown",
+              "es2017",
+              "material-ui",
+              "react",
+              "react-infinite",
+              "select"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -160,12 +258,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A react lib for building circular menus in a very easy and handy way.",
+            "homepage": "https://innfactory.github.io/react-planet",
             "id": 260728683,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-08-31T07:16:20Z",
+            "open_issues": 9,
             "owner": "innFactory",
             "repo": "react-planet",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "button",
+              "button-menu",
+              "circular",
+              "circular-menu",
+              "menu",
+              "planet",
+              "planet-menu",
+              "radial",
+              "radial-menu",
+              "react-menu",
+              "react-planet",
+              "submenu"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -176,12 +292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pagination component for Material-UI using Button component.",
+            "homepage": null,
             "id": 93708947,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T03:56:16Z",
+            "open_issues": 20,
             "owner": "szmslab",
             "repo": "material-ui-flat-pagination",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -192,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of wrapper components to facilitate using Material UI with Final Form",
+            "homepage": null,
             "id": 137104536,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-03T11:33:35Z",
+            "open_issues": 31,
             "owner": "Deadly0",
             "repo": "final-form-material-ui",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -208,12 +334,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React molecule-components based on Material-ui.",
+            "homepage": "https://components-extra.netlify.app",
             "id": 202372085,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-27T04:30:34Z",
+            "open_issues": 11,
             "owner": "alexandre-lelain",
             "repo": "components-extra",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "material-ui",
+              "react",
+              "react-molecule-components",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -224,12 +361,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover",
+            "homepage": null,
             "id": 236657637,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-05-24T01:56:06Z",
+            "open_issues": 44,
             "owner": "azmenak",
             "repo": "material-ui-nested-menu-item",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "material-ui",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -240,12 +385,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A password field using Material-UI.",
+            "homepage": "https://mui.wertarbyte.com/#material-ui-password-field",
             "id": 69466926,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-25T18:17:10Z",
+            "open_issues": 12,
             "owner": "TeamWertarbyte",
             "repo": "material-ui-password-field",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "input",
+              "material-design",
+              "material-ui",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -256,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fullscreen dialog for Material-UI.",
+            "homepage": "https://mui.wertarbyte.com/#material-ui-fullscreen-dialog",
             "id": 78733499,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T01:35:18Z",
+            "open_issues": 11,
             "owner": "TeamWertarbyte",
             "repo": "material-ui-fullscreen-dialog",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -272,12 +432,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Upload controls made in material-ui using FileAPI",
+            "homepage": null,
             "id": 76281521,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-03-15T10:47:03Z",
+            "open_issues": 10,
             "owner": "corpix",
             "repo": "material-ui-upload",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "material-ui",
+              "react",
+              "upload-file",
+              "upload-pictures"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -288,12 +458,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User can show the GitHub repository cards in their react wesite. Card component is created using Material-UI",
+            "homepage": "https://react-github-repo-cards.vercel.app/",
             "id": 300714390,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-11-08T19:16:33Z",
+            "open_issues": 1,
             "owner": "ssat4805",
             "repo": "react-github-repo-cards",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "cards",
+              "github",
+              "material-ui",
+              "react",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -304,12 +485,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React blog page which consists of the last ten medium posts. The blog card is created using Material-UI and React application. ",
+            "homepage": "https://material-ui-medium-blog.vercel.app",
             "id": 298109872,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-05-15T17:38:25Z",
+            "open_issues": 4,
             "owner": "ssat4805",
             "repo": "material-ui-medium-blog",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "material-ui",
+              "medium",
+              "react",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -320,12 +511,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced, highly customizable phone input component for Material UI.",
+            "homepage": "https://playground.typesnippet.org/mui-phone-input/",
             "id": 722188549,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-05T09:34:36Z",
+            "open_issues": 0,
             "owner": "typesnippet",
             "repo": "mui-phone-input",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "advanced",
+              "component",
+              "customizable",
+              "input",
+              "material",
+              "material-ui",
+              "mui",
+              "number",
+              "phone",
+              "phone-number",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -336,12 +544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "material-ui form generated from json",
+            "homepage": "https://nadunindunil.github.io/material-jsonschema-form",
             "id": 190462356,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-06-03T16:53:43Z",
+            "open_issues": 4,
             "owner": "nadunindunil",
             "repo": "material-jsonschema-form",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         }
@@ -358,12 +571,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+            "homepage": "https://mui.com/material-ui/",
             "id": 23083156,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:03:40Z",
+            "open_issues": 1488,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98958
+            "stars": 98958,
+            "topics": [
+              "design-system",
+              "material-design",
+              "material-ui",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -374,12 +598,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.",
+            "homepage": "https://saas-app.async-await.com",
             "id": 128308007,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-21T18:07:06Z",
+            "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4502
+            "stars": 4502,
+            "topics": [
+              "aws-s3",
+              "aws-ses",
+              "boilerplate",
+              "express",
+              "google-api",
+              "mailchimp",
+              "material-ui",
+              "mobx",
+              "mongodb",
+              "mongoose",
+              "nextjs",
+              "passport",
+              "react",
+              "saas",
+              "saas-boilerplate",
+              "saas-business",
+              "saas-product",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -390,12 +638,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ready to use boilerplate for starting big react projects",
+            "homepage": null,
             "id": 119300541,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-02-21T13:07:14Z",
+            "open_issues": 1,
             "owner": "innFactory",
             "repo": "create-react-app-material-typescript-redux",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "boilerplate",
+              "material",
+              "material-ui",
+              "progressive-web-app",
+              "pwa",
+              "pwa-boilerplate",
+              "react",
+              "react-router",
+              "redux",
+              "starter",
+              "template",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -406,12 +672,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React + Material UI Bolierplate",
+            "homepage": null,
             "id": 146115211,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T01:46:32Z",
+            "open_issues": 5,
             "owner": "syedabuthahirm",
             "repo": "react-materialui-boilerplate",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "admin-panel",
+              "material-ui",
+              "react",
+              "react-redux-boilerplate",
+              "react-redux-starter-kit",
+              "react-router"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -422,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gatsby Material-UI Starter",
+            "homepage": null,
             "id": 146363312,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-08T22:54:01Z",
+            "open_issues": 0,
             "owner": "nareshbhatia",
             "repo": "gatsby-starter-material-ui",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         },
@@ -438,12 +721,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple Create React App with Material-UI form submit example",
+            "homepage": "https://medium.com/@katopz/react-material-ui-example-3f534def1e23",
             "id": 96294088,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-08T12:49:56Z",
+            "open_issues": 25,
             "owner": "katopz",
             "repo": "create-react-app-material-ui",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "material-design",
+              "material-ui",
+              "react",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-29T01:00:56.477Z"
         }
@@ -452,15 +745,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:00:56.477Z",
+    "last_updated": "2026-08-29T04:48:08.056Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
+      "homepage": "https://material-ui.com/",
       "id": 217705449,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-08-28T00:30:39Z",
+      "open_issues": 1,
       "owner": "nadunindunil",
       "repo": "awesome-material-ui",
-      "stars": 272
+      "stars": 272,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "react",
+        "reactjs"
+      ]
     },
     "original_repository_sha": "1ad57193c1ea22ad0911108c5ccd7fe4095f2b36",
     "enhanced_repository": "enhansome/enhansome-material-ui",
