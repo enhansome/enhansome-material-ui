@@ -4,7 +4,7 @@
 
 <h1 align="center">Awesome Material-UI</h1>
 
-[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 500,556 | 🐛 105 | 📅 2026-08-21
+[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 500,861 | 🐛 105 | 📅 2026-08-21
 
 [Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
@@ -75,7 +75,7 @@ A list of UI components built with Material-UI Design.
 * [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) ⭐ 93 | 🐛 20 | 🌐 TypeScript | 📅 2023-01-07 - A flat design pagination component for Material-UI.
 * [Final-Form-Material-UI](https://github.com/Deadly0/final-form-material-ui) ⭐ 92 | 🐛 31 | 🌐 TypeScript | 📅 2022-12-03 - Wrapper components to facilitate using Material-UI with Final Form.
 * [React molecule-components](https://github.com/alexandre-lelain/components-extra) ⭐ 89 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-27 - React molecule-components based on Material-UI.
-* [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) ⭐ 75 | 🐛 44 | 🌐 TypeScript | 📅 2023-05-24 - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
+* [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) ⭐ 76 | 🐛 44 | 🌐 TypeScript | 📅 2023-05-24 - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
 * [Material-UI Password field](https://github.com/TeamWertarbyte/material-ui-password-field) ⭐ 57 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-25 - A password field using Material-UI.
 * [Fullscreen Dialog](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog) ⭐ 57 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06 - A fullscreen dialog for Material-UI.
 * [Material-UI Upload](https://github.com/corpix/material-ui-upload) ⚠️ Archived - Upload controls made in Material-UI using FileAPI.
@@ -102,7 +102,7 @@ A list of mature apps built with Material-UI Design.
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
-* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 98,948 | 🐛 1,483 | 🌐 JavaScript | 📅 2026-08-27 - Create React App example from official Material-UI repo.
+* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 98,958 | 🐛 1,488 | 🌐 JavaScript | 📅 2026-08-28 - Create React App example from official Material-UI repo.
 * [Saas](https://github.com/async-labs/saas) ⭐ 4,502 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 * [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) ⭐ 289 | 🐛 1 | 🌐 TypeScript | 📅 2021-02-21 - A ready to use boilerplate for starting big react projects.
 * [React-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-06 - A starter kit for react and Material-UI.
@@ -115,4 +115,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
