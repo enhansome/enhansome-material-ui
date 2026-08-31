@@ -4,7 +4,7 @@
 
 <h1 align="center">Awesome Material-UI</h1>
 
-[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 501,403 | 🐛 105 | 📅 2026-08-21
+[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 501,708 | 🐛 105 | 📅 2026-08-21
 
 [Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
@@ -65,13 +65,13 @@ Material-UI Design family of projects.
 A list of UI components built with Material-UI Design.
 
 * [Notistack](https://github.com/iamhosseindhv/notistack) ⭐ 4,076 | 🐛 67 | 🌐 TypeScript | 📅 2026-03-31 - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
-* [mui-treasury](https://github.com/siriwatknp/mui-treasury) ⭐ 2,441 | 🐛 39 | 🌐 TypeScript | 📅 2026-05-22 - A collection of ready-to-use components based on Material-UI.
+* [mui-treasury](https://github.com/siriwatknp/mui-treasury) ⭐ 2,442 | 🐛 39 | 🌐 TypeScript | 📅 2026-05-22 - A collection of ready-to-use components based on Material-UI.
 * [Formik-Material-UI](https://github.com/stackworx/formik-material-ui) ⭐ 973 | 🐛 31 | 🌐 TypeScript | 📅 2026-01-29 - Bindings for using Material-UI with formik.
 * [Redux-Form-Material-UI](https://github.com/erikras/redux-form-material-ui) ⭐ 825 | 🐛 72 | 🌐 JavaScript | 📅 2023-01-12 - Wrapper components to facilitate using Material-UI with Redux Form.
 * [Material-UI Chip Input](https://github.com/TeamWertarbyte/material-ui-chip-input) ⚠️ Archived - Material-UI chip input inspired by Angular Material chip input.
 * [Material-UI Dropzone](https://github.com/Yuvaleros/material-ui-dropzone) ⭐ 479 | 🐛 108 | 🌐 JavaScript | 📅 2024-03-13 - Material-UI component built on top of react-dropzone.
 * [Super Select Field](https://github.com/Sharlaan/material-ui-superselectfield) ⭐ 265 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-10 - Multi-selection autocomplete dropdown component for Material-UI.
-* [React-planet](https://github.com/innFactory/react-planet) ⭐ 203 | 🐛 9 | 🌐 TypeScript | 📅 2021-08-31 - Create circular menus which looks like planets.
+* [React-planet](https://github.com/innFactory/react-planet) ⭐ 204 | 🐛 9 | 🌐 TypeScript | 📅 2021-08-31 - Create circular menus which looks like planets.
 * [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) ⭐ 93 | 🐛 20 | 🌐 TypeScript | 📅 2023-01-07 - A flat design pagination component for Material-UI.
 * [Final-Form-Material-UI](https://github.com/Deadly0/final-form-material-ui) ⭐ 92 | 🐛 31 | 🌐 TypeScript | 📅 2022-12-03 - Wrapper components to facilitate using Material-UI with Final Form.
 * [React molecule-components](https://github.com/alexandre-lelain/components-extra) ⭐ 89 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-27 - React molecule-components based on Material-UI.
@@ -102,7 +102,7 @@ A list of mature apps built with Material-UI Design.
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
-* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 98,974 | 🐛 1,503 | 🌐 JavaScript | 📅 2026-08-30 - Create React App example from official Material-UI repo.
+* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 98,976 | 🐛 1,487 | 🌐 JavaScript | 📅 2026-08-31 - Create React App example from official Material-UI repo.
 * [Saas](https://github.com/async-labs/saas) ⭐ 4,503 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 * [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) ⭐ 289 | 🐛 1 | 🌐 TypeScript | 📅 2021-02-21 - A ready to use boilerplate for starting big react projects.
 * [React-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-06 - A starter kit for react and Material-UI.
@@ -115,4 +115,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
