@@ -467,7 +467,7 @@
             "open_issues": 1,
             "owner": "ssat4805",
             "repo": "react-github-repo-cards",
-            "stars": 23,
+            "stars": 22,
             "topics": [
               "cards",
               "github",
@@ -576,11 +576,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:23:06Z",
-            "open_issues": 1473,
+            "last_commit": "2026-09-04T19:25:14Z",
+            "open_issues": 1472,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98999,
+            "stars": 99010,
             "topics": [
               "design-system",
               "material-design",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:57:18.376Z",
+    "last_updated": "2026-09-04T19:42:03.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",

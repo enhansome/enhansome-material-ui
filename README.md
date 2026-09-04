@@ -4,7 +4,7 @@
 
 <h1 align="center">Awesome Material-UI</h1>
 
-[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 502,664 | 🐛 105 | 📅 2026-09-02
+[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 502,992 | 🐛 106 | 📅 2026-09-02
 
 [Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
@@ -79,7 +79,7 @@ A list of UI components built with Material-UI Design.
 * [Material-UI Password field](https://github.com/TeamWertarbyte/material-ui-password-field) ⭐ 57 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-25 - A password field using Material-UI.
 * [Fullscreen Dialog](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog) ⭐ 57 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06 - A fullscreen dialog for Material-UI.
 * [Material-UI Upload](https://github.com/corpix/material-ui-upload) ⚠️ Archived - Upload controls made in Material-UI using FileAPI.
-* [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) ⭐ 23 | 🐛 1 | 🌐 JavaScript | 📅 2020-11-08 - Extended Material-UI Card component to show the GitHub repositories.
+* [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2020-11-08 - Extended Material-UI Card component to show the GitHub repositories.
 * [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) ⭐ 14 | 🐛 4 | 🌐 JavaScript | 📅 2022-05-15 - Extended Material-UI Card component to show the Medium blogs.
 * [MUI Phone Input](https://github.com/typesnippet/mui-phone-input) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-05 - Advanced, highly customizable phone input component for Material UI.
 * [Material JSON Schema Form](https://github.com/nadunindunil/material-jsonschema-form) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2020-06-03 - Material-UI form generated from json.
@@ -102,7 +102,7 @@ A list of mature apps built with Material-UI Design.
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
-* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 98,999 | 🐛 1,473 | 🌐 JavaScript | 📅 2026-09-03 - Create React App example from official Material-UI repo.
+* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 99,010 | 🐛 1,472 | 🌐 JavaScript | 📅 2026-09-04 - Create React App example from official Material-UI repo.
 * [Saas](https://github.com/async-labs/saas) ⭐ 4,504 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 * [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) ⭐ 289 | 🐛 1 | 🌐 TypeScript | 📅 2021-02-21 - A ready to use boilerplate for starting big react projects.
 * [React-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-06 - A starter kit for react and Material-UI.
@@ -115,4 +115,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
