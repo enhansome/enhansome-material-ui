@@ -210,7 +210,7 @@
             "open_issues": 108,
             "owner": "Yuvaleros",
             "repo": "material-ui-dropzone",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "dropzone",
               "file-upload",
@@ -580,7 +580,7 @@
             "open_issues": 1463,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99026,
+            "stars": 99035,
             "topics": [
               "design-system",
               "material-design",
@@ -607,7 +607,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4510,
+            "stars": 4509,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:51:10.715Z",
+    "last_updated": "2026-09-12T19:28:23.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
