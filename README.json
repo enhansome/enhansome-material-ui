@@ -77,7 +77,7 @@
             "open_issues": 67,
             "owner": "iamhosseindhv",
             "repo": "notistack",
-            "stars": 4078,
+            "stars": 4077,
             "topics": [
               "google-material",
               "javascript",
@@ -576,11 +576,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T14:58:36Z",
+            "last_commit": "2026-09-24T17:40:52Z",
             "open_issues": 1452,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99087,
+            "stars": 99096,
             "topics": [
               "design-system",
               "material-design",
@@ -607,7 +607,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4514,
+            "stars": 4516,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:30:57.640Z",
+    "last_updated": "2026-09-24T20:33:40.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
