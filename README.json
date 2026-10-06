@@ -576,11 +576,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T16:24:26Z",
-            "open_issues": 1469,
+            "last_commit": "2026-10-06T10:49:43Z",
+            "open_issues": 1471,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99130,
+            "stars": 99134,
             "topics": [
               "design-system",
               "material-design",
@@ -607,7 +607,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4516,
+            "stars": 4517,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:13:19.162Z",
+    "last_updated": "2026-10-06T10:58:08.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
