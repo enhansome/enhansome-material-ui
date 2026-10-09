@@ -4,7 +4,7 @@
 
 <h1 align="center">Awesome Material-UI</h1>
 
-[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 516,314 | 🐛 106 | 📅 2026-09-02
+[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 516,748 | 🐛 106 | 📅 2026-09-02
 
 [Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
@@ -64,8 +64,8 @@ Material-UI Design family of projects.
 
 A list of UI components built with Material-UI Design.
 
-* [Notistack](https://github.com/iamhosseindhv/notistack) ⭐ 4,078 | 🐛 67 | 🌐 TypeScript | 📅 2026-03-31 - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
-* [mui-treasury](https://github.com/siriwatknp/mui-treasury) ⭐ 2,441 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-08 - A collection of ready-to-use components based on Material-UI.
+* [Notistack](https://github.com/iamhosseindhv/notistack) ⭐ 4,077 | 🐛 67 | 🌐 TypeScript | 📅 2026-03-31 - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
+* [mui-treasury](https://github.com/siriwatknp/mui-treasury) ⭐ 2,440 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-09 - A collection of ready-to-use components based on Material-UI.
 * [Formik-Material-UI](https://github.com/stackworx/formik-material-ui) ⭐ 972 | 🐛 31 | 🌐 TypeScript | 📅 2026-01-29 - Bindings for using Material-UI with formik.
 * [Redux-Form-Material-UI](https://github.com/erikras/redux-form-material-ui) ⭐ 821 | 🐛 72 | 🌐 JavaScript | 📅 2023-01-12 - Wrapper components to facilitate using Material-UI with Redux Form.
 * [Material-UI Chip Input](https://github.com/TeamWertarbyte/material-ui-chip-input) ⚠️ Archived - Material-UI chip input inspired by Angular Material chip input.
@@ -102,7 +102,7 @@ A list of mature apps built with Material-UI Design.
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
-* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 99,145 | 🐛 1,466 | 🌐 JavaScript | 📅 2026-10-08 - Create React App example from official Material-UI repo.
+* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 99,151 | 🐛 1,461 | 🌐 JavaScript | 📅 2026-10-09 - Create React App example from official Material-UI repo.
 * [Saas](https://github.com/async-labs/saas) ⭐ 4,519 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 * [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) ⭐ 289 | 🐛 1 | 🌐 TypeScript | 📅 2021-02-21 - A ready to use boilerplate for starting big react projects.
 * [React-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-06 - A starter kit for react and Material-UI.
@@ -115,4 +115,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
