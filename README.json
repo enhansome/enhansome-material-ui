@@ -237,7 +237,7 @@
             "open_issues": 60,
             "owner": "Sharlaan",
             "repo": "material-ui-superselectfield",
-            "stars": 265,
+            "stars": 264,
             "topics": [
               "autocomplete",
               "create-react-app",
@@ -576,11 +576,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:25:54Z",
-            "open_issues": 1517,
+            "last_commit": "2026-10-21T19:59:17Z",
+            "open_issues": 1519,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99255,
+            "stars": 99258,
             "topics": [
               "design-system",
               "material-design",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:42:26.328Z",
+    "last_updated": "2026-10-21T20:42:48.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
