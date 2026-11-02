@@ -4,7 +4,7 @@
 
 <h1 align="center">Awesome Material-UI</h1>
 
-[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 528,616 | 🐛 105 | 📅 2026-09-02
+[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 529,671 | 🐛 104 | 📅 2026-09-02
 
 [Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
@@ -52,7 +52,7 @@ Here are utilities that can help you customize your theme and ability to change 
 
 Material-UI Design family of projects.
 
-* [Components Extra](https://github.com/alexandre-lelain/components-extra) ⭐ 89 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-27 - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
+* [Components Extra](https://github.com/alexandre-lelain/components-extra) ⭐ 88 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-27 - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 * [Eslint: detect unused classes](https://github.com/jens-ox/eslint-plugin-material-ui-unused-classes) ⭐ 31 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-17 - ESLint plugin to detect unused styling classes with `@mui/styles`.
 * [material-ui-theme-editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material UI applications that features live previewing.
 * [Material palette generator](https://m2.material.io/inline-tools/color/) - The official Material Design palette generator can be used to generate a palette for any color you choose.
@@ -64,8 +64,8 @@ Material-UI Design family of projects.
 
 A list of UI components built with Material-UI Design.
 
-* [Notistack](https://github.com/iamhosseindhv/notistack) ⭐ 4,079 | 🐛 67 | 🌐 TypeScript | 📅 2026-03-31 - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
-* [mui-treasury](https://github.com/siriwatknp/mui-treasury) ⭐ 2,441 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-19 - A collection of ready-to-use components based on Material-UI.
+* [Notistack](https://github.com/iamhosseindhv/notistack) ⭐ 4,080 | 🐛 67 | 🌐 TypeScript | 📅 2026-03-31 - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
+* [mui-treasury](https://github.com/siriwatknp/mui-treasury) ⭐ 2,442 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-19 - A collection of ready-to-use components based on Material-UI.
 * [Formik-Material-UI](https://github.com/stackworx/formik-material-ui) ⭐ 972 | 🐛 31 | 🌐 TypeScript | 📅 2026-01-29 - Bindings for using Material-UI with formik.
 * [Redux-Form-Material-UI](https://github.com/erikras/redux-form-material-ui) ⭐ 820 | 🐛 72 | 🌐 JavaScript | 📅 2023-01-12 - Wrapper components to facilitate using Material-UI with Redux Form.
 * [Material-UI Chip Input](https://github.com/TeamWertarbyte/material-ui-chip-input) ⚠️ Archived - Material-UI chip input inspired by Angular Material chip input.
@@ -74,7 +74,7 @@ A list of UI components built with Material-UI Design.
 * [React-planet](https://github.com/innFactory/react-planet) ⭐ 203 | 🐛 9 | 🌐 TypeScript | 📅 2021-08-31 - Create circular menus which looks like planets.
 * [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) ⭐ 93 | 🐛 20 | 🌐 TypeScript | 📅 2023-01-07 - A flat design pagination component for Material-UI.
 * [Final-Form-Material-UI](https://github.com/Deadly0/final-form-material-ui) ⭐ 92 | 🐛 31 | 🌐 TypeScript | 📅 2022-12-03 - Wrapper components to facilitate using Material-UI with Final Form.
-* [React molecule-components](https://github.com/alexandre-lelain/components-extra) ⭐ 89 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-27 - React molecule-components based on Material-UI.
+* [React molecule-components](https://github.com/alexandre-lelain/components-extra) ⭐ 88 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-27 - React molecule-components based on Material-UI.
 * [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) ⭐ 76 | 🐛 44 | 🌐 TypeScript | 📅 2023-05-24 - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
 * [Material-UI Password field](https://github.com/TeamWertarbyte/material-ui-password-field) ⭐ 57 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-25 - A password field using Material-UI.
 * [Fullscreen Dialog](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog) ⭐ 57 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-06 - A fullscreen dialog for Material-UI.
@@ -102,7 +102,7 @@ A list of mature apps built with Material-UI Design.
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
-* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 99,292 | 🐛 1,536 | 🌐 JavaScript | 📅 2026-11-01 - Create React App example from official Material-UI repo.
+* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 99,300 | 🐛 1,534 | 🌐 JavaScript | 📅 2026-11-02 - Create React App example from official Material-UI repo.
 * [Saas](https://github.com/async-labs/saas) ⭐ 4,533 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 * [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) ⭐ 289 | 🐛 1 | 🌐 TypeScript | 📅 2021-02-21 - A ready to use boilerplate for starting big react projects.
 * [React-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-06 - A starter kit for react and Material-UI.
@@ -115,4 +115,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
