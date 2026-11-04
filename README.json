@@ -576,11 +576,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T14:21:51Z",
-            "open_issues": 1528,
+            "last_commit": "2026-11-04T12:07:47Z",
+            "open_issues": 1531,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99295,
+            "stars": 99299,
             "topics": [
               "design-system",
               "material-design",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:23:14.410Z",
+    "last_updated": "2026-11-04T22:41:44.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
