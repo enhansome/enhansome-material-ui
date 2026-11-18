@@ -4,7 +4,7 @@
 
 <h1 align="center">Awesome Material-UI</h1>
 
-[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 538,538 | 🐛 104 | 📅 2026-09-02
+[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome) ⭐ 539,010 | 🐛 104 | 📅 2026-09-02
 
 [Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
@@ -65,7 +65,7 @@ Material-UI Design family of projects.
 A list of UI components built with Material-UI Design.
 
 * [Notistack](https://github.com/iamhosseindhv/notistack) ⭐ 4,080 | 🐛 67 | 🌐 TypeScript | 📅 2026-03-31 - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
-* [mui-treasury](https://github.com/siriwatknp/mui-treasury) ⭐ 2,444 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-19 - A collection of ready-to-use components based on Material-UI.
+* [mui-treasury](https://github.com/siriwatknp/mui-treasury) ⭐ 2,445 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-19 - A collection of ready-to-use components based on Material-UI.
 * [Formik-Material-UI](https://github.com/stackworx/formik-material-ui) ⭐ 972 | 🐛 31 | 🌐 TypeScript | 📅 2026-01-29 - Bindings for using Material-UI with formik.
 * [Redux-Form-Material-UI](https://github.com/erikras/redux-form-material-ui) ⭐ 820 | 🐛 72 | 🌐 JavaScript | 📅 2023-01-12 - Wrapper components to facilitate using Material-UI with Redux Form.
 * [Material-UI Chip Input](https://github.com/TeamWertarbyte/material-ui-chip-input) ⚠️ Archived - Material-UI chip input inspired by Angular Material chip input.
@@ -96,13 +96,13 @@ A list of mature apps built with Material-UI Design.
 * [TagSpaces](https://www.tagspaces.org/) - An offline, open source, file manager.
 * [Builder Book](https://builderbook.org/) - Books that teach you how to build full stack, production-ready web apps.
 * [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
-* [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) ⭐ 46 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-17 - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
+* [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) ⭐ 45 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-17 - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
 
 ## Boilerplates
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
-* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 99,349 | 🐛 1,517 | 🌐 JavaScript | 📅 2026-11-17 - Create React App example from official Material-UI repo.
+* [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) ⭐ 99,354 | 🐛 1,516 | 🌐 JavaScript | 📅 2026-11-18 - Create React App example from official Material-UI repo.
 * [Saas](https://github.com/async-labs/saas) ⭐ 4,535 | 🐛 19 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 * [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) ⭐ 289 | 🐛 1 | 🌐 TypeScript | 📅 2021-02-21 - A ready to use boilerplate for starting big react projects.
 * [React-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-06 - A starter kit for react and Material-UI.
@@ -115,4 +115,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

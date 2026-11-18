@@ -110,7 +110,7 @@
             "open_issues": 39,
             "owner": "siriwatknp",
             "repo": "mui-treasury",
-            "stars": 2444,
+            "stars": 2445,
             "topics": [
               "layout",
               "material-design",
@@ -576,11 +576,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T16:16:58Z",
-            "open_issues": 1517,
+            "last_commit": "2026-11-18T20:14:57Z",
+            "open_issues": 1516,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99349,
+            "stars": 99354,
             "topics": [
               "design-system",
               "material-design",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:53:03.451Z",
+    "last_updated": "2026-11-18T23:26:12.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
