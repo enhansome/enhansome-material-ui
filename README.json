@@ -516,7 +516,7 @@
             "id": 722188549,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T22:00:31Z",
+            "last_commit": "2026-11-21T22:17:27Z",
             "open_issues": 0,
             "owner": "typesnippet",
             "repo": "mui-phone-input",
@@ -576,11 +576,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T00:32:15Z",
-            "open_issues": 1520,
+            "last_commit": "2026-11-22T19:12:14Z",
+            "open_issues": 1519,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99380,
+            "stars": 99388,
             "topics": [
               "design-system",
               "material-design",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:14:28.488Z",
+    "last_updated": "2026-11-22T22:35:03.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
