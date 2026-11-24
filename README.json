@@ -267,7 +267,7 @@
             "open_issues": 9,
             "owner": "innFactory",
             "repo": "react-planet",
-            "stars": 203,
+            "stars": 202,
             "topics": [
               "button",
               "button-menu",
@@ -576,8 +576,8 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-22T19:12:14Z",
-            "open_issues": 1519,
+            "last_commit": "2026-11-24T01:16:03Z",
+            "open_issues": 1517,
             "owner": "mui",
             "repo": "material-ui",
             "stars": 99388,
@@ -607,7 +607,7 @@
             "open_issues": 19,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4535,
+            "stars": 4536,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:35:03.291Z",
+    "last_updated": "2026-11-24T03:22:19.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date ",
